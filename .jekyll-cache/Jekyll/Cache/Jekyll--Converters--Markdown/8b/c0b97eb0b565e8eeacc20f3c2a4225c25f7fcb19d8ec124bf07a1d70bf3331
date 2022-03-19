@@ -1,0 +1,12 @@
+I"µ<p>#Setting up Jekyll - using theme Hyde</p>
+
+<p>First post should be dedicated to the setup of this static webpage - canâ€™t use it straight off the bat, unfortunately. Zero knowledge on Ruby, but some Googling should do the trick.
+Intial steps can be found on</p>
+
+<ul>
+  <li>Fork theme of your choice</li>
+  <li>Change Repo name (username.github.io)</li>
+  <li>Git clone repo to local repo</li>
+  <li>Git checkout gh-pages</li>
+</ul>
+:ET

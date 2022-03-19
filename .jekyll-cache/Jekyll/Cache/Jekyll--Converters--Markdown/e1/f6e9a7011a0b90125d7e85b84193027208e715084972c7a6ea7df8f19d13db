@@ -1,0 +1,17 @@
+I"Z<p>#Setting up Jekyll - using theme Hyde</p>
+
+<p>First post should be dedicated to the setup of this static webpage - can’t use it straight off the bat, unfortunately. Zero knowledge on Ruby, but some Googling should do the trick.
+Initial steps can be found on https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html (thanks lots!)</p>
+
+<p>If you chose Hyde, there are a few modifications to be made:</p>
+
+<ol>
+  <li>In config.yaml:
+    <ul>
+      <li>Delete <code>&lt;em&gt;</code> <em>relative permalinks</em></li>
+      <li>insert</li>
+    </ul>
+  </li>
+</ol>
+
+:ET
