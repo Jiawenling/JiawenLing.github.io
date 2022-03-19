@@ -10,4 +10,5 @@ gem "jekyll-gist"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "webrick"
+gem "github-pages"
 
