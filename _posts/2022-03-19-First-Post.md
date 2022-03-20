@@ -5,7 +5,7 @@ title: First Post - Using Jekyll
 
 #Setting up Jekyll - using theme Hyde
 
-First post should be dedicated to the setup of this static webpage - can't use it straight off the bat, unfortunately. Zero knowledge on Ruby, but some Googling should do the trick.
+First post should be dedicated to the setup of this static webpage - can't use it straight off the bat, unfortunately. Zero knowledge on Ruby, but thankfully plenty of tutorials out there.
 Initial steps can be found [here](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html) (thanks lots!)
 
 If you chose Hyde, there are a few modifications to be made:
