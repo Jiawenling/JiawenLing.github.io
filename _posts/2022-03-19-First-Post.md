@@ -32,3 +32,5 @@ If you chose Hyde, there are a few modifications to be made:
   {% endhighlight %}
 4. bundle install
 5. bundle exec jekyll serve
+6. If pages (other than Homepage) appears to have issues loading CSS, try the fix [here](https://github.com/poole/hyde/issues/213)
+
