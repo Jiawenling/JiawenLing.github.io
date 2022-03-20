@@ -17,8 +17,10 @@ Have been exposed to:
 5. Git
 6. Python
 
-Learning:
+Learning (or planning to learn):
 1. C#
+2. Design patterns
+
 
 Personal projects:
 ***In the making!***
