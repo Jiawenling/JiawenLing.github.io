@@ -13,7 +13,6 @@ During the training period, the topics we covered were:
 * Angular
 * MySQL
 
-
 These frameworks also exposed us to HTML/CSS/Javascript/TypeScript, and we used Heroku and Gitpages for deployment
 
 The breadth of topics were appropriate for a start, but I felt that the depth was somewhat limited. To top it off, the firm I was attached to uses C#. Yet another language to learn, before I can even go in-depth on one language..
