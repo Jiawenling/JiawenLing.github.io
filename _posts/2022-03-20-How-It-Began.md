@@ -12,15 +12,17 @@ During the training period, the topics we covered were:
 * Spring Boot
 * Angular
 * MySQL
+
+
 These frameworks also exposed us to HTML/CSS/Javascript/TypeScript, and we used Heroku and Gitpages for deployment
 
 The breadth of topics were appropriate for a start, but I felt that the depth was somewhat limited. To top it off, the firm I was attached to uses C#. Yet another language to learn, before I can even go in-depth on one language..
 
 ## Finding and setting my foothold...
 
-I'm not a fan of rock-climbing, but I do find that learning to code on your own is similar to this strenuous activity. Except that you got to make your own foothold.
+I'm not a fan of rock-climbing, but I do find that learning to code on your own is similar to this strenuous activity. Except that you got to make your own footholds.
 
-Formal education and training gives you temporary footholds. Once that's over, you'll be looking at a bare cliff wall. 
+Formal education and training gives you temporary footholds. Once that's over, you'll be looking at a bare rock wall. 
 
 Setting a foothold is planning, and ascending the rock wall is learning. It will be an iterative process, so I have to be conscious of *where I invest my time in*, and what *experience I hope to seek*.
 
