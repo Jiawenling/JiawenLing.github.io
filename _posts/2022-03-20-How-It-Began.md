@@ -23,7 +23,7 @@ I'm not a fan of rock-climbing, but I do find that learning to code on your own 
 
 Formal education and training gives you temporary footholds. Once that's over, you'll be looking at a bare rock wall. 
 
-Setting a foothold is planning, and ascending the rock wall is learning. It will be an iterative process, so I have to be conscious of *where I invest my time in*, and what *experience I hope to seek*.
+Setting a foothold is planning, and ascending the rock wall is learning. It will be an iterative process, so a conscious effort must be made to determine what to invest my time in, and what experiences I will seek. 
 
 
 ### The first foothold
@@ -31,9 +31,7 @@ Setting a foothold is planning, and ascending the rock wall is learning. It will
 This website is an attempt to gain discipline. Also, there's a notion of learning in public, and there's also the practice of writing journals to sort out your thoughts, so I figured why not do both?
 If all else fails, this website will be used to document concepts that I struggle to understand.
 
-There's a blackbox between learning to code, and becoming a full-fledged developer that sets me on edge. 
-I have no doubts that the void in this blackbox can be filled by diligence and working experience, but whatever happens in this blackbox is certain...to be uncertain. 
-So it's better to start planning instead of walking into the void blindly. 
+For starters, I'll try to cover an adequate depth on C#, then move on to cover technologies that are commonly used by developers
 
 Over the next quarter, the things I would like to cover:
 1. Docker
