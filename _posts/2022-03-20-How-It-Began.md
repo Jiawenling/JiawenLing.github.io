@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How it began
+title: How it started
 ---
 
 ## August 2021 was the starting point
@@ -23,7 +23,9 @@ I'm not a fan of rock-climbing, but I do find that learning to code on your own 
 
 Formal education and training gives you temporary footholds. Once that's over, you'll be looking at a bare rock wall. 
 
-Setting a foothold is planning, and ascending the rock wall is learning. It will be an iterative process, so a conscious effort must be made to determine what to invest my time in, and what experiences I will seek. 
+Setting a foothold is planning, and ascending the rock wall is learning. It will be an iterative process, so a conscious effort must be made to determine what to invest my time in, and what experiences I seek.
+
+Reading or watching tutorials is simply too passive (and sleep-inducing) so...
 
 
 ### The first foothold
