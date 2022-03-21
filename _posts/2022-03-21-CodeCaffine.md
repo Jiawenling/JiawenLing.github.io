@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Caffine #1
+title: 21 Mar 2022 Learnings
 ---
 
 ### Fundementals are still rough around the edges
