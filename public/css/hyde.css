@@ -185,7 +185,8 @@ a.sidebar-nav-item:focus {
 .theme-jw .sidebar{
   background-color: #b99ca5;
 }
-.theme-jw .content a, .theme-jw .related-posts li a:hover{
+.theme-jw .content a,
+.theme-jw .related-posts li a:hover {
   color: #b99ca5;
 }
 
