@@ -7,7 +7,7 @@ title: 21 Mar 2022 Learnings
 
 Feeling the "penalty" but thankful for the (forced) opportunities to revise on fundamentals. 
 
-Listing resources and concepts covered: 
+<i> Listing resources and concepts covered: </i>
 
 - [Programming to Interface](https://www.baeldung.com/cs/program-to-interface) 
 - [First class functions and closures](https://www.simplethread.com/c-closures-explained/)
