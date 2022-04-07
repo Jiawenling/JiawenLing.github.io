@@ -5,10 +5,12 @@ title: 5 Apr 2022 Learnings
 
 ### Data Structures
 
-I am having troubles deciding the types of data structures to use to communicate between two methods whilst working on a monitoring feature....
+I am having troubles deciding the types of data structures to use whilst planning my code, seeing multiple possibilities and then eliminating them subsequently in my head. 
 
-Trying to avoid multiple layers of nested structure by using a class but even then struggling to think of the right way to represent the state of the object. 
+Better to start typing on my IDE rather than in my 'cloud' of thoughts. 
 
-Also concerned with memory/performance issue with no real way to monitor it. 
+Anyway, good resource haul today:
 
-Overthinking...but just letting it out here.
+Events - https://www.youtube.com/watch?v=gSwGta2cJ_Y
+Generic delegate types - https://www.youtube.com/watch?v=E-g8Ivss0Gs
+Class vs struct - https://www.youtube.com/watch?v=uFHtFOmH2OI
