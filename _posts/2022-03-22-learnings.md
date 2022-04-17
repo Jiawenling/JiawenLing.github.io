@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 21 Mar 2022 Learnings
+title: 22 Mar 2022 Learnings
 ---
 
 ### Fundementals are still rough around the edges
-
-Feeling the "penalty" but thankful for the (forced) opportunities to revise on fundamentals. 
 
 <i> Listing resources and concepts covered: </i>
 

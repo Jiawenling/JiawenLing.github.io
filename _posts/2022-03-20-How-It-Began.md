@@ -30,7 +30,7 @@ Reading or watching tutorials is simply too passive (and sleep-inducing) so...
 
 ### The first foothold
 
-This website is an attempt to gain discipline. Also, there's a notion of learning in public, and there's also the practice of writing journals to sort out your thoughts, so I figured why not do both?
+This website is an attempt to gain discipline. Also, there's a notion of learning in public, and there's also the practice of blogging to sort out your thoughts, so I figured why not do both?
 If all else fails, this website will be used to document concepts that I struggle to understand.
 
 For starters, I'll try to cover an adequate depth on C#, then move on to cover technologies that are commonly used by developers
